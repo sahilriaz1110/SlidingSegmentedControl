@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>22B5B62D-2BDE-41AA-8E3F-2898B5493E8B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SlidingSegmentedControl</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BF70E414-9640-433E-A8ED-7C72B5693479</key>
+		<string>https://github.com/sahilriaz1110/SlidingSegmentedControl.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SlidingSegmentedControl/SlidingSegmentedControl.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BF70E414-9640-433E-A8ED-7C72B5693479</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sahilriaz1110/SlidingSegmentedControl.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BF70E414-9640-433E-A8ED-7C72B5693479</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BF70E414-9640-433E-A8ED-7C72B5693479</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SlidingSegmentedControl</string>
+		</dict>
+	</array>
+</dict>
+</plist>
